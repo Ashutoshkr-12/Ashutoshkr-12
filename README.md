@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashutosh kumar</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **docker**
 
-- 🌱 I’m currently learning **AI and machine learning**
+- 🌱 I’m currently learning **devOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashutoshkr-12](https://github.com/Ashutoshkr-12)
 
